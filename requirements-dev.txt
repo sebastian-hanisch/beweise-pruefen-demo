@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8.0
+ortools>=9.10   # nur Gegenprobe im Test (Antwort des Lösers, Wahrheit von Klauseln), nie in der App
