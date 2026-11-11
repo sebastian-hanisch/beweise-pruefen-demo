@@ -1,7 +1,6 @@
 # Beweise schreiben und prüfen – „unerfüllbar“ glauben, weil ein zweites Programm nachrechnet – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-beweise-pruefen-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-beweise-pruefen-demo.streamlit.app/)**
 
 Sechstes Stück der Linie **SAT und Constraint Programming** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Die Vorgänger-Stücke zeigen, wie ein SAT-Löser eine Antwort **findet**; diese Demo zeigt, wie man sie **belegt** (bewusster Kontrast, keine Verbesserung des Lösers): Der Löser schreibt jede gelernte Klausel in ein Protokoll, und ein zweites, viel einfacheres Programm rechnet jede Zeile nach. Aufgaben sind das Schubfach (h + 1 Tauben in h Löchern), Zufalls-3-SAT und ein Handbeispiel mit drei Tauben und zwei Löchern, das sich von Hand nachrechnen lässt.
 
